@@ -25,8 +25,10 @@ It is designed so that it can be converted to HTML and many other formats using 
 # References
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://docs.github.com/en/get-started/writing-on-github
-- https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=104933730
 - https://mermaid.js.org/intro/
+- https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown
+- https://www.linkedin.com/learning/craft-a-great-github-profile
+
 
 
 
