@@ -47,6 +47,6 @@ Next, we'll add in an image:
 <br>
 <br>
 <br>
-![Deep Dive powered by CNM Ingenuity](https://deepdivecoding.com/wp-content/uploads/2024/04/231002-DEEP_DIVE_STOCK_PHOTOGRAPHY_JS_1443-scaled-e1716233865343-2048x1366.jpg "Deep Dive powered by CNM Ingenuity - hello there")
+![Deep Dive powered by CNM Ingenuity](https://deepdivecoding.com/wp-content/uploads/2024/04/program-hero-fullstack-04-2048x1338.jpg "Deep Dive powered by CNM Ingenuity - hello there")
 
 
