@@ -5,10 +5,10 @@ It is designed so that it can be converted to HTML and many other formats using 
 
 
 # The Backstory: why markdown?
-- [history.md](./history.md)
+- [history.md]( history.md )
 
 # A demo
-- [demo.md](demo.md)
+- [demo.md]( demo.md )
 
 # Markdown: part 1
 - [lesson-1.md]( lesson-1.md )
