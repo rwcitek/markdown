@@ -5,7 +5,7 @@
 ## Tables
 
 |Column 1| Column 2| Column 3|
- - | :-: | -:
+| - | :-: | -:
 Cell 9 | Cell 2 | Cell 3
 a new row| with entries| for fun
 foo | bar | baz
@@ -18,9 +18,12 @@ foo | bar | baz
 
 You can use LaTeX math notation by using the \$ symbol. Examples:
 
-$ \frac{1}{2} $
+$$ \frac{1}{2} $$
 
-$ \hat{y} = \hat{\beta}_0 + \hat{\beta}_1X_1 $
+$$ \hat{y} = \hat{\beta}_0 + \hat{\beta}_1X_1 $$
+
+$$ \hat{y} = \hat{B} \cdot \hat{X} $$
+
 
 ## Indented Blocks / Code
 
