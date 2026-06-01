@@ -4,10 +4,10 @@
 
 ## Tables
 
-|Column 1| Column 2| Column 3|
+| Column 1 | Column 2 | Column 3 |
 | - | :-: | -:
 Cell 9 | Cell 2 | Cell 3
-a new row| with entries| for fun
+a new row | with entries| for fun
 foo | bar | baz
 
 
@@ -47,6 +47,10 @@ Next, we'll add in an image:
 <br>
 <br>
 <br>
+
+
+
+        
 ![Deep Dive powered by CNM Ingenuity](https://deepdivecoding.com/wp-content/uploads/2024/04/program-hero-fullstack-04-2048x1338.jpg "Deep Dive powered by CNM Ingenuity - hello there")
 
 
