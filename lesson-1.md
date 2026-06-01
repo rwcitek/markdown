@@ -11,14 +11,16 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 - Messages in Slack
 - Generative AI
 
-**Hint**: When viewing this notebook you can double click on any cell to switch to editing mode and view the original markdown entry instead of the formatted text.
+> **Hint**: When viewing markdown files in github, you can view the raw markdown by clicking the `code` or `raw` button.  If you are editting a markdown file, you can render the markdown before commiting by clicing the `review` button.  In Jupyter, the markdown is rendered in real time in a bottom or side panel. 
 
 
 ## Headings (#)
 
 
 
-Headings in Colab automatically create the Table of Contents on the left (Click on the icon with the three lines to view the TOC.)
+Headings in markdown or Jupyter notebooks automatically create a `Table of Contents` on the left or right (Click on the icon with the three lines to view the TOC.)
+
+> **Caveat**: in Jupyter each heading needs to be in its own markdown cell for it to be included in the ToC.
 
  - \# first level heading
  - \## second level heading
@@ -31,7 +33,7 @@ Headings in Colab automatically create the Table of Contents on the left (Click 
 - this is my first entry
 - this is my second entry
 * this is a list entry with a \*
-
+  - this is a nested entry
 
 
 1. this is a list item
@@ -51,9 +53,10 @@ Or you can use all 1s
 
 *This will be all slanty*
 
-**This will be fat**
+**This will be bold**
 
 ***both***
 
----
+
+
 
