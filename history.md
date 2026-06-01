@@ -1,5 +1,7 @@
 # Why Markdown?  The Pre-Markdown Era: A History of Lightweight Markup
 
+## All software is social
+
 Before John Gruber and Aaron Swartz designed Markdown in 2004 to bridge the gap between 
 human-readable plain text and web-ready HTML, a rich ecosystem of specialized markup 
 languages already existed. 
