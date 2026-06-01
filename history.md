@@ -1,4 +1,4 @@
-## Why Markdown?  The Pre-Markdown Era: A History of Lightweight Markup
+# Why Markdown?  The Pre-Markdown Era: A History of Lightweight Markup
 
 Before John Gruber and Aaron Swartz designed Markdown in 2004 to bridge the gap between 
 human-readable plain text and web-ready HTML, a rich ecosystem of specialized markup 
@@ -6,9 +6,9 @@ languages already existed.
 These ancestral and parallel formats were developed to solve specific problems: 
 documenting software, powering collaborative wikis, and standardizing multi-format technical publishing.
 
-### 1986: GNU Texinfo
+## 1986: GNU Texinfo
 
-#### The Purpose: Multi-Format Technical Documentation
+### The Purpose: Multi-Format Technical Documentation
 
 Long before the World Wide Web, the GNU Project needed a way to write software manuals that could be read both on a computer screen (via terminal menus) and printed as high-quality physical books. Created by **Richard Stallman** in 1986, **Texinfo** became the official documentation format for the GNU Project.
 
@@ -35,9 +35,9 @@ Second point.
 
 ```
 
-### 1994: POD (Plain Old Documentation) & perldoc
+## 1994: POD (Plain Old Documentation) & perldoc
 
-#### The Purpose: Embedding Readable Docs in Source Code
+### The Purpose: Embedding Readable Docs in Source Code
 
 In 1994, Larry Wall introduced **POD (Plain Old Documentation)** with Perl 5. POD was born out of a desire to keep software documentation strictly intertwined with the source code itself, ensuring that developers wouldn't forget to update the manual when they updated the code.
 
@@ -71,7 +71,7 @@ text B<bold> or I<italic> easily.
 
 ## 1995: Wikitext (Wiki Markup)
 
-#### The Purpose: Rapid, Collaborative Web Editing
+### The Purpose: Rapid, Collaborative Web Editing
 
 When Ward Cunningham created the first-ever wiki (WikiWikiWeb) in 1995, 
 he needed a way for everyday users to write and link web pages instantly without 
@@ -100,7 +100,7 @@ Welcome to the wiki. You can read about the [[History of Computing]].
 [Example of wikitext of the Markdown page]( https://en.wikipedia.org/w/index.php?title=Markdown&action=edit )
 
 
-### The Road to Markdown (2004)
+## The Road to Markdown (2004)
 
 By the early 2000s, internet users had seen various approaches to formatting text without raw HTML:
 
