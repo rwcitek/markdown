@@ -10,8 +10,8 @@ We are going to create a README.md file in a new repo and edit it.
 - Click the big, green New button to create a new repo
 - Choose an owner, if that option exists, and select your name
 - Use "dd-example" for the repo name
-- Click "on" next to `Add README`
-- Click the big, green `Create tepository` button
+- Click the "on" switch next to `Add README`
+- Click the big, green `Create repository` button
 
 ## Edit the README.md
 
