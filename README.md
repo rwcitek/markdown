@@ -1,3 +1,8 @@
+# A Gentle Introduction to Markdown
+
+Markdown is a lightweight markup language with plain-text formatting syntax. 
+It is designed so that it can be converted to HTML and many other formats using a tool which is also called "Markdown". 
+
 
 # The Backstory: why markdown?
 - [history.md](./history.md)
