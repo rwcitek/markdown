@@ -5,9 +5,9 @@
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
 
-**In this class, we will see Markdown in use in the following places:**
-- Formatting text cells in Colab/Jupyter notebooks.
+**We will see Markdown in use in the following places:**
 - README and LICENSE files on Github
+- Formatting text cells in Colab/Jupyter notebooks.
 - Messages in Slack
 - Generative AI
 
